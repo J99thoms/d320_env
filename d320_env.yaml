@@ -1,0 +1,14 @@
+name: d320
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas=1.4
+  - selenium[version='<4.3.0']
+  - jsonschema[version='<4.17']
+  - altair
+  - jupyter
+  - altair_saver
+  - vega_datasets
+prefix: C:\Users\jakob\miniconda3\envs\d320
